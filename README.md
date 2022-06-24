@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# StockBay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project that retrieves and displays data of stock prices changes of different companies from [Financial Modeling API](https://financialmodelingprep.com/api/v3/).
+
+## Screenshots
+### Mobile
+![screenshot_mobile](./screenshot_mobile.JPG)
+### Desktop
+![screenshot_desktop](./screenshot_desktop.JPG)
+
+### Live Demo
+- [Visit website](https://62b5887408329f62d5bb5997--cosmic-twilight-d9b42e.netlify.app/)
+- [Video walkthrough by author](https://loom.com/share/d428dd765f8047709025058de11223e1)
+
+## Authors
+👤 **Author1**
+
+- GitHub: [@Christianib003](https://github.com/Christianib003)
+- LinkedIn: [@Christian Iradukunda Byiringiro](https://www.linkedin.com/in/christian-iradukunda)
 
 ## Available Scripts
 
@@ -68,3 +84,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+## Acknowledgement
+Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29) Under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+## 📝 License
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
