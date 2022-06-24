@@ -12,13 +12,13 @@
 .alternate:nth-child(6),
 .alternate:nth-child(7),
 .alternate:nth-child(10),
-.alternate:nth-child(11), 
+.alternate:nth-child(11),
 .alternate:nth-child(14),
 .alternate:nth-child(15),
 .alternate:nth-child(18),
 .alternate:nth-child(19),
 .alternate:nth-child(22),
-.alternate:nth-child(23), 
+.alternate:nth-child(23),
 .alternate:nth-child(26),
 .alternate:nth-child(27),
 .alternate:nth-child(30) {
@@ -39,8 +39,4 @@
     height: 37vh;
     font-size: 10px;
   }
-
-  .alternate > Card.Title {
-    color: red;
-  }
-} 
+}
