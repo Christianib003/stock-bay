@@ -9,7 +9,7 @@ This is a project that retrieves and displays data of stock prices changes of di
 ![screenshot_desktop](./screenshot_desktop.JPG)
 
 ### Live Demo
-[Video walkthrough by author]()
+[Video walkthrough by author](https://loom.com/share/d428dd765f8047709025058de11223e1)
 
 ## Authors
 👤 **Author1**
