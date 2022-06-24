@@ -9,8 +9,8 @@ This is a project that retrieves and displays data of stock prices changes of di
 ![screenshot_desktop](./screenshot_desktop.JPG)
 
 ### Live Demo
-[Visit website](https://62b5887408329f62d5bb5997--cosmic-twilight-d9b42e.netlify.app/)
-[Video walkthrough by author](https://loom.com/share/d428dd765f8047709025058de11223e1)
+- [Visit website](https://62b5887408329f62d5bb5997--cosmic-twilight-d9b42e.netlify.app/)
+- [Video walkthrough by author](https://loom.com/share/d428dd765f8047709025058de11223e1)
 
 ## Authors
 👤 **Author1**
