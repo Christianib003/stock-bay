@@ -33,8 +33,8 @@ const CompanyStock = () => {
               ({
                 id, change, companyName, price, changesPercentage,
               }) => (
-                <Link to={`/details/${id}`} key={`${id}link`}>
-                  <Card className="text-white">
+                <Card className="text-white alternate" key={id}>
+                  <Link to={`/details/${id}`} key={`${id}link`} className="text-white">
                     <Card.Img src={Chart} alt="Card image" />
                     <Card.ImgOverlay className="text-center align-center d-flex flex-column  justify-content-center">
                       <Card.Title>{companyName}</Card.Title>
@@ -63,18 +63,18 @@ const CompanyStock = () => {
                           </span>
                         </Card.Text>
                       </Card.Text>
-                      <Card.Text>Last updated 20 hours ago</Card.Text>
+                      <Card.Text>Last updated 1 hour ago</Card.Text>
                     </Card.ImgOverlay>
-                  </Card>
-                </Link>
+                  </Link>
+                </Card>
               ),
             )
             : filteredState.map(
               ({
                 id, change, companyName, price, changesPercentage,
               }) => (
-                <Link to={`/details/${id}`} key={id}>
-                  <Card className=" p-3 text-white">
+                <Card className=" p-3 text-white alternate" key={id}>
+                  <Link to={`/details/${id}`} key={id} className="text-white">
                     <Card.Img src={Chart} alt="Card image" />
                     <Card.ImgOverlay className=" align-center d-flex flex-column  justify-content-start">
                       <Card.Title className="h3">{companyName}</Card.Title>
@@ -103,10 +103,10 @@ const CompanyStock = () => {
                           <FiArrowRightCircle className="text-white m-2 h3" />
                         </span>
                       </Card.Text>
-                      <Card.Text>Last updated 20 hours ago</Card.Text>
+                      <Card.Text>Last updated 1 hour ago</Card.Text>
                     </Card.ImgOverlay>
-                  </Card>
-                </Link>
+                  </Link>
+                </Card>
               ),
             )}
         </section>

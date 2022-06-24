@@ -8,7 +8,6 @@
     font-size: 1rem;
   }
 }
-
 @media screen and (min-width: 800px) {
   .carousel-caption {
     bottom: 10rem;
